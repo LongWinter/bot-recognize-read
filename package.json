@@ -1,0 +1,27 @@
+{
+  "name": "gdg",
+  "version": "1.0.0",
+  "description": "a bot to recognize image and read it out",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongWinter/bot-recognize-read.git"
+  },
+  "keywords": [
+    "bot",
+    "read",
+    "recognization"
+  ],
+  "author": "ye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LongWinter/bot-recognize-read/issues"
+  },
+  "homepage": "https://github.com/LongWinter/bot-recognize-read#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
